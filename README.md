@@ -1,5 +1,5 @@
 # GitProfile
-
+A web application built using Angular 2 and Github API, allows searching through Github profiles.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
